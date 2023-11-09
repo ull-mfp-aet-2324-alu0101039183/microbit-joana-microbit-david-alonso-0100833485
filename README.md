@@ -2,6 +2,8 @@
 
 > Open this page at <https://ull-mfp-aet.github.io/microbit-template/>
 
+Estoy trabajando en ello Joana. 
+
 ## Edit this project
 
 To edit this repository in MakeCode.
